@@ -15,7 +15,8 @@
       "height": 1536,
       "bytes": 2383332,
       "sha256": "516c55e193fe126f61df804eda8a0507b914d6cb341a48c58f30dba0f818adfa",
-      "fictional": true
+      "fictional": true,
+      "name": "Даня"
     },
     {
       "id": "02-forest-girl-3",
@@ -29,7 +30,8 @@
       "height": 1536,
       "bytes": 2352477,
       "sha256": "85c3364f5025f3b22c088f91f166f91099577b6b7b43d58e8ec3c6562974935c",
-      "fictional": true
+      "fictional": true,
+      "name": "Аня"
     },
     {
       "id": "03-unicorns-girl-5",
@@ -41,9 +43,11 @@
       "preview": "previews/03-unicorns-girl-5.webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 2239835,
-      "sha256": "b933f1704e48a933e61c4b8526e981580970665e7673a521f0d8b288b63ad951",
-      "fictional": true
+      "bytes": 2285513,
+      "sha256": "11fb67070a361a9e3ec0c34157ea197990ce9e552fe31b4533f88fe9cb99b47d",
+      "fictional": true,
+      "name": "Соня",
+      "promptFile": "prompts/03-sonya-unicorns.txt"
     },
     {
       "id": "04-space-girl-7",
@@ -57,7 +61,8 @@
       "height": 1536,
       "bytes": 2317186,
       "sha256": "adbf21dfb75a9f3cf1d160ecc977cfd77ba6a20eec5de0b051a9b7300e36754e",
-      "fictional": true
+      "fictional": true,
+      "name": "Алиса"
     },
     {
       "id": "05-heroes-boy-8",
@@ -71,7 +76,8 @@
       "height": 1536,
       "bytes": 2250510,
       "sha256": "d4fa90d380260be454b558a793e0f05134fda2f643887195667c0abfefd81fe7",
-      "fictional": true
+      "fictional": true,
+      "name": "Илья"
     },
     {
       "id": "06-stitch-boy-6",
@@ -85,7 +91,8 @@
       "height": 1536,
       "bytes": 2095394,
       "sha256": "4dc21ea90f91eddb507dade916ed77c0e8d2de146bc4a6a22ca00d44847f577d",
-      "fictional": true
+      "fictional": true,
+      "name": "Миша"
     },
     {
       "id": "07-minecraft-boy-10",
@@ -99,7 +106,8 @@
       "height": 1536,
       "bytes": 2291376,
       "sha256": "145613d4cd148e7298008709efb02b642217d82c5563cb40af1055b8aaf736c2",
-      "fictional": true
+      "fictional": true,
+      "name": "Артём"
     },
     {
       "id": "08-brawlstars-girl-11",
@@ -113,7 +121,8 @@
       "height": 1536,
       "bytes": 2510283,
       "sha256": "f63234bb400c98f84a36348e04f6f0478e6503ff43e1cbccb898ab6759f2a61e",
-      "fictional": true
+      "fictional": true,
+      "name": "Варя"
     },
     {
       "id": "09-football-boy-12",
@@ -125,9 +134,11 @@
       "preview": "previews/09-football-boy-12.webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 2345068,
-      "sha256": "a97263dca3516ba5fc451a375b0ea39b3b98e42e045f8cd7751edf8585fc3e9e",
-      "fictional": true
+      "bytes": 2315418,
+      "sha256": "484b4b23702c20b91a678cd12fb7d7f6e452e86bbdd611878ea382c9aec500d0",
+      "fictional": true,
+      "name": "Максим",
+      "promptFile": "prompts/09-maxim-football.txt"
     },
     {
       "id": "10-music-girl-14",
@@ -141,7 +152,8 @@
       "height": 1536,
       "bytes": 2284614,
       "sha256": "7c3f14201970aa2d980dea55de78382d1b865d6d5f5aa4c96424882adac2f5c7",
-      "fictional": true
+      "fictional": true,
+      "name": "Валерия"
     },
     {
       "id": "11-kuromi-girl-15",
@@ -155,7 +167,8 @@
       "height": 1536,
       "bytes": 2343942,
       "sha256": "64a2da20992ddbf5baf2dc17db60a645f9a129ec0443ed61c45b143b8d24c9ed",
-      "fictional": true
+      "fictional": true,
+      "name": "Полина"
     },
     {
       "id": "12-hockey-boy-16",
@@ -169,7 +182,10 @@
       "height": 1536,
       "bytes": 2380561,
       "sha256": "886ec87392d52d48475a26b4e42f80bacba2555873925a95a900bf210e208e95",
-      "fictional": true
+      "fictional": true,
+      "name": "Кирилл"
     }
-  ]
+  ],
+  "revision": "portraits-r2-20261025",
+  "updated": "2026-10-25"
 }
