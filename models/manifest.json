@@ -110,19 +110,20 @@
       "name": "Артём"
     },
     {
-      "id": "08-brawlstars-girl-11",
+      "id": "08-brawlstars-boy-11",
       "theme": "Brawl Stars",
-      "gender": "Девочка",
+      "gender": "Мальчик",
       "age": 11,
       "group": "9–12 лет",
-      "file": "originals/08-brawlstars-girl-11.png",
-      "preview": "previews/08-brawlstars-girl-11.webp",
+      "file": "originals/08-brawlstars-boy-11.png",
+      "preview": "previews/08-brawlstars-boy-11.webp",
       "width": 1024,
       "height": 1536,
-      "bytes": 2510283,
-      "sha256": "f63234bb400c98f84a36348e04f6f0478e6503ff43e1cbccb898ab6759f2a61e",
+      "bytes": 2345510,
+      "sha256": "54f731b2d75bba12c3641dcea94cdd21ec5555652ecc3050386186f0b1f48e8a",
       "fictional": true,
-      "name": "Варя"
+      "name": "Егор",
+      "promptFile": "prompts/08-egor-brawlstars.txt"
     },
     {
       "id": "09-football-boy-12",
@@ -186,6 +187,6 @@
       "name": "Кирилл"
     }
   ],
-  "revision": "portraits-r2-20261025",
+  "revision": "portraits-r3-20261025",
   "updated": "2026-10-25"
 }
