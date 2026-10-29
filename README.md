@@ -93,3 +93,11 @@
 Обновлённый сайт: https://kovaks1.github.io/posters-demo/?v=product-20261029
 
 Скриншоты телефона и компьютера: https://kovaks1.github.io/posters-demo/review/clear-product.html
+
+## Компактная галерея · 29 октября 2026
+
+Все 12 примеров теперь в одном ряду с пролистыванием. На компьютере видны четыре карточки, на телефоне одна и край следующей. Свайпы на телефоне и стрелки на всех экранах, без счётчика карусели. Просмотр крупно и выбор оформления сохранены.
+
+Сайт: https://kovaks1.github.io/posters-demo/?v=carousel-20261029#posters
+
+Скриншоты: https://kovaks1.github.io/posters-demo/review/carousel.html
