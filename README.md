@@ -109,3 +109,11 @@
 Сайт: https://kovaks1.github.io/posters-demo/?v=wording-20261029
 
 Скриншоты: https://kovaks1.github.io/posters-demo/review/wording.html
+
+## Изображение интерьера · 29 октября 2026
+
+Нарисованная сцена в блоке «Персональный постер для печати» заменена фотореалистичным изображением, присланным владельцем в архиве. Использован lossless WebP с сохранением всех пикселей, исходных пропорций, лица и имени. На телефоне и компьютере фотография показана целиком.
+
+Сайт: https://kovaks1.github.io/posters-demo/?v=interior-photo-20261029#product
+
+Скриншоты: https://kovaks1.github.io/posters-demo/review/interior-photo.html
